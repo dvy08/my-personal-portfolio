@@ -5,7 +5,7 @@ const nextConfig: NextConfig = {
   reactCompiler: true,
   output: 'export', 
   reactStrictMode: true,
-  basePath: "/personal-portfolio"
+  basePath: "/my-personal-portfolio"
 };
 
 export default nextConfig;
