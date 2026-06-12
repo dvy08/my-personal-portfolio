@@ -3,7 +3,7 @@ export default function Footer() {
         <div>
             <p id="footer">
                 Coded in Visual Studio Code by me. Built with Next.js.
-                Hosted on GitHub.
+                Hosted on GitHub Pages.
             </p>
         </div>
 

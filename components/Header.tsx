@@ -11,7 +11,7 @@ export default function Header(){
         </p>
 
         <div className="links">
-            <a href="#"><img src="/GitHub_Invertocat_Black.svg" /></a>
+            <a href="https://github.com/dvy08"><img src="/my-personal-portfolio/GitHub_Invertocat_Black.svg" /></a>
         </div>
         
         <nav>

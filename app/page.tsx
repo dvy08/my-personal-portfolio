@@ -18,12 +18,12 @@ export default async function Home() {
       </aside>
     
     
-    <main>
-      <About/>
-      <h2 id="projects">Projects</h2>
-      {isEmpty ? <Message/> : <ProjectItem/>}
-      <Footer/>
-    </main>
+      <main>
+        <About/>
+        <h2 id="projects">Projects</h2>
+        {isEmpty ? <Message/> : <ProjectItem/>}
+        <Footer/>
+      </main>
     </div>
     </>
   );
