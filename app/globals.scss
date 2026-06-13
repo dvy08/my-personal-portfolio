@@ -189,7 +189,7 @@ span {
 
 }
 
-//larger screens-----------------------------------------------------------
+//mid-large screens-----------------------------------------------------------
 @media (min-width: 768px){
   #cont-pan {
     display: flex;
@@ -287,6 +287,31 @@ span {
   }
 
 }
+
+//font sizes for 2000px+ screens-----------------------------------------------------------------------------------
+@media (min-width: 2000px){
+  h1{
+    font-size: 4.5rem;
+  }
+
+  h2 {
+    font-size: 2rem;
+  }
+
+  p {
+    font-size: 1.9rem;
+  }
+
+  #main-line {
+    font-size: 2rem;
+  }
+
+  header a {
+    font-size: 1.9rem;
+  }
+
+}
+
 
 //animation--------------------------------------------------------
 @keyframes rotate {
